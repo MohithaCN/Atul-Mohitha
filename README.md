@@ -4,11 +4,11 @@
 Full Stack Java Developer | Building Scalable Web Applications
 </h3>
 
-<img
-  align="right"
-  alt="Mohitha C N - Java Full Stack Developer"
-  width="350"
-  src="./profile.png"
+<img 
+  align="right" 
+  alt="Mohitha C N - Java Full Stack Developer" 
+  width="400" 
+  src="./profile.png.png"
 />
 
 ---
