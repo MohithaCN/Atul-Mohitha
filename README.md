@@ -6,7 +6,7 @@ Full Stack Java Developer | Building Scalable Web Applications
 
 <img 
   align="right" 
-  alt="Mohitha C N - Java Full Stack Developer" 
+  alt="Java Full Stack Developer" 
   width="400" 
   src="./profile.png.png"
 />
