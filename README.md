@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Mohitha C N </h1>
-<h3 align="center">Full Stack Java Developer| Building Scalable Web Applications</h3>
+<h1 align="center">Hi 👋, I'm Mohitha C N</h1>
 
-<img align="right" alt="Java Full Stack Developer" width="400" src="C:\Users\Sunil\Downloads\ChatGPT Image Sep 25, 2026, 10_43_53 PM.png"/>
+<h3 align="center">
+Full Stack Java Developer | Building Scalable Web Applications
+</h3>
+
+<img
+  align="right"
+  alt="Mohitha C N - Java Full Stack Developer"
+  width="350"
+  src="./profile.png"
+/>
 
 ---
 ## 👩‍💻 About Me
