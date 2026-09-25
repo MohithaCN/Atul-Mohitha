@@ -51,9 +51,17 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ### 🧩 Core Concepts
-`OOP` · `Collections` · `Exception Handling` · `Multithreading` · `CRUD` · `JDBC` · `Debugging` · `SDLC` · `Agile`
+
+![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Collections](https://img.shields.io/badge/Collections-007396?style=for-the-badge&logo=java&logoColor=white)
+![Exception Handling](https://img.shields.io/badge/Exception_Handling-007396?style=for-the-badge&logo=java&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-007396?style=for-the-badge&logo=java&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Debugging](https://img.shields.io/badge/Debugging-4B5563?style=for-the-badge)
+![SDLC](https://img.shields.io/badge/SDLC-2563EB?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge)
 
 </div>
 
